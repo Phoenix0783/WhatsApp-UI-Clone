@@ -1,8 +1,6 @@
-# whatsapp_uiclone
+# WhatsApp UI Clone (Flutter & Dart)
+![Whatsapp Banner](https://github.com/Phoenix0783/WhatsApp-UI-Clone/assets/56187745/a8f5b5da-30e0-48c0-a119-bd45943ba3f8)
 
-A new Flutter project.
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
